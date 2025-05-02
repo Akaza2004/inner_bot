@@ -80,3 +80,5 @@ def warrior_mode(message):
 # تشغيل البوت
 print("البوت يعمل الآن... استعد للجلد.")
 bot.infinity_polling()
+
+pyTelegramBotAPI
